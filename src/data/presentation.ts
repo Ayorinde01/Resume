@@ -12,14 +12,15 @@ type Presentation = {
 };
 
 const presentation: Presentation = {
-  mail: "Odesanyaayorinde2014@gmail.com",
+  mail: "odesanyaayorinde2014@gmail.com",
   title: "Hi, I’m Ayorinde 👋",
   //profile: "/profile.webp",
   description:
-    "I am new to cloud computing. Currently i am working on my AWS cloud computing course, It has been an interesting moment trying to understand the techniques within the Tech space, most importantly the cloud computing industry. So far i have learnt how to create an EC2 instance, Kubernetes which helps to start a server and manages the container a Docker provides.
+    "I am a Cloud Engineer, I am new to Cloud Computing, this is my first project, i am currently learning about AWS and Kubernetes. I am passionate about helping people get into cloud and sharing my learnings in Cloud, DevOps and now Developer Relations.",
+  socials: [
     {
       label: "YouTube",
-      link: "https://youtube.com/@odesanyaayorinde5095",
+      link: "https://youtube.com/@odesanyaayorinde5025",
     },
     {
       label: "X",
@@ -27,11 +28,11 @@ const presentation: Presentation = {
     },
     {
       label: "LinkedIn",
-      link: "https://linkedin.com/in/ayorinde-odesanya",
+      link: "https://linkedin.com/in/odesanyaayorinde01",
     },
     {
       label: "GitHub",
-      link: "https://github.com/Ayorinde01",
+      link: "https://github.com/ayorinde01",
     },
     
   ],
